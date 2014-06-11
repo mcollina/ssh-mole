@@ -1,0 +1,28 @@
+{
+  "name": "ssh-mole",
+  "version": "0.0.0",
+  "description": "Expose remote ports on localhost!",
+  "main": "ssh-mole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcollina/ssh-mole.git"
+  },
+  "keywords": [
+    "ssh",
+    "tunnel",
+    "remote",
+    "port"
+  ],
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcollina/ssh-mole/issues"
+  },
+  "homepage": "https://github.com/mcollina/ssh-mole",
+  "dependencies": {
+    "portfinder": "^0.2.1"
+  }
+}
