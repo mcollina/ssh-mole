@@ -1,6 +1,6 @@
 {
   "name": "ssh-mole",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Expose remote ports on localhost!",
   "main": "ssh-mole.js",
   "scripts": {
