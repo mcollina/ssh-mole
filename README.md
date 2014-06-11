@@ -4,9 +4,9 @@ ssh-mole
 Expose remote ports on localhost!
 
 ```js
-var sshMole = require('ssh-mole')
+var dig = require('ssh-mole')
 
-sshTunnel({
+dig({
     host: 'x.x.x.x'
   , user: 'xxxxx'
   , remotePort: 12345
